@@ -75,19 +75,20 @@
 
 | 로그인 페이지                                                                             | 홈 페이지1                                                                                | 홈 페이지2                                                                                |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| ![Login](https://github.com/user-attachments/assets/d410cefc-7429-4dce-a904-677fea2ab086 =390x) | ![Home1](https://github.com/user-attachments/assets/5e26311d-5280-4c18-b7fa-29ce17cbedbe =390x) | ![Home2](https://github.com/user-attachments/assets/84123d27-6913-462b-8aa2-24bee6159fd9 =390x) |
+| <img src="https://github.com/user-attachments/assets/d410cefc-7429-4dce-a904-677fea2ab086" width="390"> | <img src="https://github.com/user-attachments/assets/5e26311d-5280-4c18-b7fa-29ce17cbedbe" width="390"> | <img src="https://github.com/user-attachments/assets/84123d27-6913-462b-8aa2-24bee6159fd9" width="390"> |
 
 | 구단상세 페이지                                                                          | 응원송 페이지                                                                                 | 응원채팅 페이지                                                                               |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Club](https://github.com/user-attachments/assets/dfe52c8f-ee0b-43a0-8de4-f550d19d91b0 =390x) | ![CheerSong](https://github.com/user-attachments/assets/89c2712a-7dbd-4a55-98f6-80d4f6254055 =390x) | ![CheerChat](https://github.com/user-attachments/assets/85c25e4d-e311-4626-93b3-a1b242675a5d =390x) |
+| <img src="https://github.com/user-attachments/assets/dfe52c8f-ee0b-43a0-8de4-f550d19d91b0" width="390"> | <img src="https://github.com/user-attachments/assets/89c2712a-7dbd-4a55-98f6-80d4f6254055" width="390"> | <img src="https://github.com/user-attachments/assets/85c25e4d-e311-4626-93b3-a1b242675a5d" width="390"> |
 
 | 자유게시판 페이지                                                                         | 중고거래 페이지                                                                           | 포토카드스토어 페이지                                                                        |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| ![Board](https://github.com/user-attachments/assets/95e684d7-e6cd-48cc-83db-129e220810c8 =390x) | ![Trade](https://github.com/user-attachments/assets/d69fc2a3-b489-44f0-857e-946637ba05c6 =390x) | ![Carousel](https://github.com/user-attachments/assets/11f3b657-96c3-48c6-80c1-25d2d7214e8e =390x) |
+| <img src="https://github.com/user-attachments/assets/95e684d7-e6cd-48cc-83db-129e220810c8" width="390"> | <img src="https://github.com/user-attachments/assets/d69fc2a3-b489-44f0-857e-946637ba05c6" width="390"> | <img src="https://github.com/user-attachments/assets/11f3b657-96c3-48c6-80c1-25d2d7214e8e" width="390"> |
 
 | 응원팀설정 페이지                                                                               | 야구사전 페이지                                                                                  | 직관경기등록 페이지                                                                           |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| ![CheerSelect](https://github.com/user-attachments/assets/5ea0bbb0-a0a4-47b9-8492-a3ccf5372bf5 =390x) | ![BaseballDict](https://github.com/user-attachments/assets/8f561d83-ced8-48e0-bcac-8c192e0f7f14 =390x) | ![TicketOCR](https://github.com/user-attachments/assets/9cf81369-85dd-4b7a-8c2d-559a2f00eec5 =390x) |
+| <img src="https://github.com/user-attachments/assets/5ea0bbb0-a0a4-47b9-8492-a3ccf5372bf5" width="390"> | <img src="https://github.com/user-attachments/assets/8f561d83-ced8-48e0-bcac-8c192e0f7f14" width="390"> | <img src="https://github.com/user-attachments/assets/9cf81369-85dd-4b7a-8c2d-559a2f00eec5" width="390"> |
+
 
 
 <br/>
