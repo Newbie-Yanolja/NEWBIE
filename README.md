@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="300px" src="https://github.com/user-attachments/assets/f4b073ac-dd0d-430b-8dc3-d7d92c2fcce2" />
+<img width="300px" src="./assets/LOGO.png" />
 
 <br>
 
@@ -59,13 +59,13 @@
 ## 🛠 기술 고도화
 
 - **Selenium을 통한 동적 크롤링**
-  ![슬라이드22](https://github.com/user-attachments/assets/09ee5dbe-96b2-42a8-9351-96fc052c3d72)
+  ![슬라이드22](./assets/슬라이드22.jfif)
 
 - **실시간 경기 정보**
-  ![슬라이드27](https://github.com/user-attachments/assets/f26a9a13-6095-444a-99b8-f29fc3ad4252)
+  ![슬라이드27](./assets/슬라이드27.jfif)
 
 - **CLOVA OCR을 통한 티켓 분석**
-  ![슬라이드33](https://github.com/user-attachments/assets/e7113342-1a28-4a69-be16-fb760d545b90)
+  ![슬라이드33](./assets/슬라이드33.jfif)
 
 <br/>
 
@@ -73,23 +73,21 @@
 
 : 사용자의 편리함을 극대화 시키는 UI/UX 구상
 
-| 로그인 페이지                                                                             | 홈 페이지1                                                                                | 홈 페이지2                                                                                |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/d410cefc-7429-4dce-a904-677fea2ab086" width="390"> | <img src="https://github.com/user-attachments/assets/5e26311d-5280-4c18-b7fa-29ce17cbedbe" width="390"> | <img src="https://github.com/user-attachments/assets/84123d27-6913-462b-8aa2-24bee6159fd9" width="390"> |
+| 로그인 페이지                              | 홈 페이지1                                 | 홈 페이지2                                 |
+| ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| <img src="./assets/Login.png" width="390"> | <img src="./assets/home1.png" width="390"> | <img src="./assets/home2.png" width="390"> |
 
-| 구단상세 페이지                                                                          | 응원송 페이지                                                                                 | 응원채팅 페이지                                                                               |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/dfe52c8f-ee0b-43a0-8de4-f550d19d91b0" width="390"> | <img src="https://github.com/user-attachments/assets/89c2712a-7dbd-4a55-98f6-80d4f6254055" width="390"> | <img src="https://github.com/user-attachments/assets/85c25e4d-e311-4626-93b3-a1b242675a5d" width="390"> |
+| 구단상세 페이지                           | 응원송 페이지                                  | 응원채팅 페이지                                |
+| ----------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| <img src="./assets/Club.png" width="390"> | <img src="./assets/CheerSong.png" width="390"> | <img src="./assets/CheerChat.png" width="390"> |
 
-| 자유게시판 페이지                                                                         | 중고거래 페이지                                                                           | 포토카드스토어 페이지                                                                        |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/95e684d7-e6cd-48cc-83db-129e220810c8" width="390"> | <img src="https://github.com/user-attachments/assets/d69fc2a3-b489-44f0-857e-946637ba05c6" width="390"> | <img src="https://github.com/user-attachments/assets/11f3b657-96c3-48c6-80c1-25d2d7214e8e" width="390"> |
+| 자유게시판 페이지                          | 중고거래 페이지                            | 포토카드스토어 페이지                          |
+| ------------------------------------------ | ------------------------------------------ | ---------------------------------------------- |
+| <img src="./assets/Board.png" width="390"> | <img src="./assets/Trade.png" width="390"> | <img src="./assets/PhotoCard.png" width="390"> |
 
-| 응원팀설정 페이지                                                                               | 야구사전 페이지                                                                                  | 직관경기등록 페이지                                                                           |
-| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/5ea0bbb0-a0a4-47b9-8492-a3ccf5372bf5" width="390"> | <img src="https://github.com/user-attachments/assets/8f561d83-ced8-48e0-bcac-8c192e0f7f14" width="390"> | <img src="https://github.com/user-attachments/assets/9cf81369-85dd-4b7a-8c2d-559a2f00eec5" width="390"> |
-
-
+| 응원팀설정 페이지                                | 야구사전 페이지                                   | 직관경기등록 페이지                            |
+| ------------------------------------------------ | ------------------------------------------------- | ---------------------------------------------- |
+| <img src="./assets/CheerSelect.png" width="390"> | <img src="./assets/BaseballDict.png" width="390"> | <img src="./assets/TicketOCR.png" width="390"> |
 
 <br/>
 
@@ -126,7 +124,7 @@
 </div>
 <h3>Architecture</h3>
 
-![Architecture](https://github.com/user-attachments/assets/40af5d1e-5b7d-4695-9d54-6ade73dbaacf)
+![Architecture](./assets/Architecture.png)
 
 <br/>
 <br/>  
