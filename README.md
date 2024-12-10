@@ -189,7 +189,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/miryang1016">
+      <a href="https://github.com/Me-Ryang">
         김미량
       </a>
     </td>
